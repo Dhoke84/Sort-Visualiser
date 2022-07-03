@@ -1,15 +1,15 @@
 * {
-    margin: 0px;
+    margin: 5px;
     padding: 0px;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: medium;
+    font-size: small;
     font-weight: bold;
     text-transform: uppercase;
   }
   
   nav {
-    background-color: #3b3a3a;
-    color: white;
+    background-color: rgb(54, 56, 58);
+    color: whitesmoke;
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 30% 60%;
@@ -79,9 +79,9 @@
     background-color: transparent;
     border: none;
     color: white;
-    outline: none;
+    outline: black;
     padding: 5% 0%;
-    font-size: x-large;
+    font-size: small;
   }
   
   nav .header_right .algos button:hover {
